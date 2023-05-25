@@ -1,5 +1,0 @@
-INDEX VERSION 1.131+C:\Users\오승우\Desktop\spring_ngs\.metadata\.plugins\org.eclipse.jdt.core
-4006255559.index
-2415766096.index
-3697751562.index
-2003824029.index
