@@ -1,5 +1,4 @@
 package com.fastcampus.ch2;
-
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
@@ -9,6 +8,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Calendar;
 
+// 생년월일을 입력하면 요일을 알려주는 프로그램 
 @Controller
 public class YoilTeller {
     @RequestMapping("/getYoil") // http://localhost:8080/ch2/getYoil?year=2021&month=10&day=1
